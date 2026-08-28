@@ -1,5 +1,5 @@
 # title: 阿明嘅一日
-# language: Cantonese
+# language: Cantonese Chinese
 #
 今日天氣好好，阿明一早就出咗門。佢行去茶樓飲茶，叫咗一籠蝦餃同埋一壺普洱。侍應話：「你好，請問幾多位？」阿明答：「一位就夠喇，唔該。」
 
