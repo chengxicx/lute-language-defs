@@ -22,7 +22,7 @@ dictionaries:
   active: true
 show_romanization: false
 right_to_left: false
-parser_type: korean
+parser_type: lute_korean
 character_substitutions: ´='|`='|’='|‘='|...=…|..=‥
 split_sentences: .!?。？！
 split_sentence_exceptions: ..|→.|...|「.|」.|『.|』.|㈜.|etc.|e.g.|i.e.
